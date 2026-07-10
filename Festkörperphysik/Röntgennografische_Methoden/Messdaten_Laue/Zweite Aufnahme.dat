@@ -1,0 +1,130 @@
+[Image]
+Creation Time=Thu, 18 Jun 2026 12:59:14 GMT
+Author=xray@LAUE.LAUE
+Software=VistaEasy
+Source=E311330001
+
+[Image_X]
+Hight=1136
+Width=1426
+AvgPix=0
+DeviceID=E311330001
+MaxPix=65533
+MinPix=0
+ModeUuid=1
+Offset_X=37
+Pixelsize=101000
+PixelsizeX=101000
+PixelsizeY=101000
+ProcessTime=34
+Projection=1.000000
+Rotation=0
+ScanDate=20260618
+ScanTime=125914
+SlotMask=63
+Time_Day=18
+Time_h=12
+Time_m=59
+Time_Month=6
+Time_s=14
+Time_Year=2026
+
+[Image_XHEAD]
+0000=5b 54 6d 70 49 6d 67 49 6e 66 6f 5d 0d 0a 49 64
+0010=65 6e 74 69 66 69 65 72 53 74 72 69 6e 67 3d 4e
+0020=6f 20 69 64 65 6e 74 69 66 69 65 72 20 73 74 72
+0030=69 6e 67 0d 0a 44 65 76 69 63 65 55 49 44 3d 34
+0040=32 30 34 39 30 33 34 35 0d 0a 00
+size=75
+
+[Mode]
+Binning=1
+CompressionLevel=0
+Deflash=5000
+EraseEnable=0
+Interpolate_y=1
+LampOnTime=12
+Laser=5
+MaxImageRatio=21
+MinImageArea=400e-6
+Mirror=0
+ModeFlags=0x30000008
+ModeName=standard 100µm resolution
+ModeName_de=Standard 100µm Auflösung
+ModeName_en=standard 100µm resolution
+ModeUuid=1
+Pentaspd=2000
+PMT_HV=900
+Range=AutoGrayRange lo=0 up=0 htyp=-1
+Resolution=100
+Rotation=0
+Scale=1
+Script=
+Threshold=65535
+WriteMethod=line
+
+[Setting]
+DeviceID=E311330001
+ImageWriteMode=line
+PixLine=3645
+Res_X=0.000101
+Res_Y=0.000101
+
+[RawImageParamSet]
+Binning=1
+CompressionLevel=0
+Deflash=5000
+EraseEnable=0
+Interpolate_y=1
+LampOnTime=12
+Laser=5
+MaxImageRatio=21
+MinImageArea=400e-6
+Mirror=0
+ModeFlags=0x30000008
+ModeName=standard 100µm resolution
+ModeName_de=Standard 100µm Auflösung
+ModeName_en=standard 100µm resolution
+ModeUuid=1
+Pentaspd=2000
+PMT_HV=900
+Range=AutoGrayRange lo=0 up=0 htyp=-1
+Resolution=100
+Rotation=0
+Scale=1
+Script=
+Threshold=65535
+WriteMethod=line
+ParamName=standard 100µm resolution
+ImgTypes=unknown
+
+[imageinfo]
+Pixel_X=1426
+Pixel_Y=1136
+Res_X=101010
+Res_Y=101010
+Pixelsize=101000
+Used_projection_factor=1
+BitsPerPixel=16
+CreationTime=Thu, 18 Jun 2026 12:59:14 GMT
+time_year=2026
+time_month=06
+time_day=18
+time_h=12
+time_m=59
+time_s=14
+ScanDate=20260618
+ScanTime=125914
+ScanmodeNr=1
+ScannerSerial=E311330001
+Slot=0
+Start_Slot=37
+MaxPix=65533
+AvgPix=0
+BlackMask=0
+Identifierstring=No identifier string
+ExtraInfo=
+PhotometricInterpretation=MONOCHROME2
+LowPixelValueMeansLowDose=1
+DDI=116
+
